@@ -1,0 +1,32 @@
+# Environment files
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model/checkpoint files
+*.pt
+*.pth
+*.pkl
+*.pickle
+
+# Large data and output folders
+data/
+datasets/
+outputs/
+models/
+checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
