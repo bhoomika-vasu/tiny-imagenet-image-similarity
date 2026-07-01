@@ -107,7 +107,6 @@ Open and run the notebooks from the `notebooks/` folder.
 
 - Large datasets, model checkpoints, and temporary output files are not included in this repository.
 - If a Hugging Face token is required, replace the placeholder token only in your local environment.
-- Do not upload real API tokens, passwords, or secret keys to GitHub.
 - The notebooks can be run independently depending on the selected modeling approach.
 
 ## Project Files
