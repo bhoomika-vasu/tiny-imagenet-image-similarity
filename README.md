@@ -51,14 +51,13 @@ How to Run the Project
 
 ## `1. Clone the repository:` 
 
-
 git clone https://github.com/bhoomika-vasu/tiny-imagenet-image-similarity.git
 
 ## `2. Move into the project folder:` 
 
 cd tiny-imagenet-image-similarity
 
-`3. Install the required libraries:` 
+## `3. Install the required libraries:` 
 
 pip install -r requirements.txt
 
@@ -66,8 +65,7 @@ pip install -r requirements.txt
 
 jupyter notebook
 
-##`5. Open and run the notebooks from the `notebooks/` folder.` 
-
+## `5. Open and run the notebooks from the `notebooks/` folder.` 
 
 Large datasets, model checkpoints, and temporary output files are not included in this repository.
 If a Hugging Face token is required, replace the placeholder token only in your local environment.
